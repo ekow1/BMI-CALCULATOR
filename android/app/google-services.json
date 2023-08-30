@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "244771928028",
+    "project_id": "bmi-auth",
+    "storage_bucket": "bmi-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244771928028:android:37bca1df07b948e952c119",
+        "android_client_info": {
+          "package_name": "com.example.bmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244771928028-096e7rdvgnbdspj2n98rvcekt33ihpmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmJRwSMmkFP77a8cEjjK4az4Xbw0hLlho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244771928028-096e7rdvgnbdspj2n98rvcekt33ihpmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "244771928028-mb9ev0d5v1phb1t6ek06253ulq23ksm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bmi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
